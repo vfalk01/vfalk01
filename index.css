@@ -1,7 +1,7 @@
 /* index.css file for Vince Falk Home Page*/
 h1{
 	text-align:center;
-	text-decoration:bold;
+	font-weight:bold;
 }
 img {
 	display: block;
